@@ -15,7 +15,8 @@
 $ top [option]
 ```
 
-  ![top1](https://github.com/minji0102/kimminji-sw/assets/133829885/18d89754-ed44-4488-b9ea-3266d734f054)
+
+![top1](https://github.com/minji0102/minji-sw/assets/133829885/b87c0928-53d8-4c3e-be84-b33eeafffa53)
 
 
 
